@@ -1,0 +1,5 @@
+data/**
+.Rproj.user/
+omnipathr-log/
+.Rhistory
+.DS_Store
